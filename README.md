@@ -51,11 +51,14 @@ Copy
 Edit
 baseURL=https://example.com
 browser=chrome
+
 📸 Screenshots on Failure
 Failed test screenshots are automatically saved in the screenshots/ folder and embedded in ExtentReports.
 
+
 📊 Test Reports
 Reports are generated after test execution using ExtentReports and can be found under the /reports directory.
+
 
 🧪 Sample Test Case
 java
@@ -69,14 +72,14 @@ public void verifyLoginWithValidCredentials() {
     login.clickLogin();
     Assert.assertTrue(login.isDashboardDisplayed());
 }
+
+
 📦 Future Enhancements
-CI/CD Integration (GitHub Actions / Jenkins)
+- CI/CD Integration (GitHub Actions / Jenkins)
 
-Dockerized Selenium Grid setup
+- Dockerized Selenium Grid setup
 
-Allure Reporting
 
-API + UI Hybrid Testing
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
