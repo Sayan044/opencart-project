@@ -25,3 +25,13 @@
 11:59:44.080 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
 12:04:43.750 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:13)oggger - ****** Starting TC_002_LoginTest ******
 12:04:45.182 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
+16:46:34.402 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:13)oggger - ****** Starting TC_002_LoginTest ******
+16:46:35.709 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
+18:12:56.261 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:13)oggger - ****** Starting TC_002_LoginTest ******
+18:12:57.860 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
+18:13:28.353 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:13)oggger - ****** Starting TC_002_LoginTest ******
+18:13:30.688 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
+18:14:08.368 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:13)oggger - ****** Starting TC_002_LoginTest ******
+18:14:10.432 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
+18:14:26.359 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:13)oggger - ****** Starting TC_002_LoginTest ******
+18:14:27.948 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:35)oggger - ****** Finished TC_002_LoginTest *****
